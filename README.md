@@ -1,4 +1,5 @@
 ## Welcome to My R Group Works
 
-[Data Transformations](https://lordofthewarr3n.github.io/RGroup/DataTransformations/DataTransformations.html)
-[Testing R Markdown](https://lordofthewarr3n.github.io/Rgroup/...)
+* [Data Transformations](https://curtiks.github.io/RGroup/DataTransformations/DataTransformations.nb.html)
+
+* [Testing R Markdown](https://curtiks.github.io/RGroup/mdtest/RulesOfEvidence.md)
