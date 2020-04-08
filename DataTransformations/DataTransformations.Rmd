@@ -3,16 +3,16 @@ title: "Data Transformations"
 author: "Curt Fulwider"
 date: "Spring 2020"
 output:
-  html_document:
-    df_print: paged
-    toc: yes
-    toc_depth: '2'
   html_notebook: 
     css: libs/styles.css
     code_folding: hide
     highlight: espresso
     theme: paper
     toc: yes
+  html_document:
+    df_print: paged
+    toc: yes
+    toc_depth: '2'
 editor_options: 
   chunk_output_type: inline
 ---
